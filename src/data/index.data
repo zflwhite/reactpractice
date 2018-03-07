@@ -1,0 +1,86 @@
+[
+    {"title":"1F家居用品、电器",
+    "s":[
+        {"id":1,"proname":"利仁（Liven） DHG-233A 电火锅",
+        "img":"./src/assets/images/1f1.jpg","cost":"11000"
+        },
+        {"id":2,"proname":"九阳（Joyoung）榨汁机家用果汁机（汁渣分离",
+        "img":"./src/assets/images/1f2.jpg","cost":"11000"
+        },
+        {"id":3,"proname":"亿嘉IJARL LOTOTO 时尚创意 带盖马克杯 水杯 绿色兔子 FM491008TZM",
+        "img":"./src/assets/images/1f3.jpg","cost":"1500"
+        },
+        {"id":4,"proname":"九阳（Joyoung）榨汁机家用果汁机（汁渣分离",
+        "img":"./src/assets/images/1f2.jpg","cost":"11000"
+        },
+        {"id":5,"proname":"亿嘉IJARL LOTOTO 时尚创意 带盖马克杯 水杯 绿色兔子 FM491008TZM",
+        "img":"./src/assets/images/1f3.jpg","cost":"1500"
+        },
+        {"id":6,"proname":"利仁（Liven） DHG-233A 电火锅",
+        "img":"./src/assets/images/1f1.jpg","cost":"11000"
+        }]
+    },
+    {"title":"2F小吃零食",
+    "s":[
+        {"id":7,"proname":"百草味 年货坚果炒货 碧根果190g/袋",
+        "img":"./src/assets/images/2f1.jpg","cost":"999"
+        },
+        {"id":8,"proname":"德芙Dove糖果巧克力礼盒年货大礼包968g",
+        "img":"./src/assets/images/2f2.jpg","cost":"12380"
+        },
+        {"id":9,"proname":"【中粮海外直采】Glica格力高巧克力涂层饼干105.6g（日本进口 盒）",
+        "img":"./src/assets/images/2f3.jpg","cost":"2758"
+        },
+        {"id":10,"proname":"百草味 中秋礼盒 零食坚果礼盒 团圆大礼包1478g",
+        "img":"./src/assets/images/2f4.jpg","cost":"9897"
+        },
+        {"id":11,"proname":"百草味 年货坚果零食干果 夏威夷果奶油味200g/袋 内含开果器",
+        "img":"./src/assets/images/2f5.jpg","cost":"999"
+        },
+        {"id":12,"proname":"波兰进口 摩卡特（MOKATE）冰拿铁咖啡 412.5g （内含15袋）",
+        "img":"./src/assets/images/2f6.jpg","cost":"4367"
+        }]
+    },
+    {"title":"3F男女服装",
+    "s":[
+        {"id":13,"proname":"休闲运动男女春夏秋冬款",
+        "img":"./src/assets/images/3f1.jpg","cost":"5800"
+        },
+        {"id":14,"proname":"休闲运动男女春夏秋冬款",
+        "img":"./src/assets/images/3f2.jpg","cost":"5000"
+        },
+        {"id":15,"proname":"婴儿亲肤纯棉女春秋款",
+        "img":"./src/assets/images/3f3.jpg","cost":"9800"
+        },
+        {"id":16,"proname":"休闲运动男女春夏秋冬款",
+        "img":"./src/assets/images/3f2.jpg","cost":"5000"
+        },
+        {"id":17,"proname":"婴儿亲肤纯棉女春秋款",
+        "img":"./src/assets/images/3f3.jpg","cost":"9800"
+        },
+        {"id":18,"proname":"休闲运动男女春夏秋冬款",
+        "img":"./src/assets/images/3f1.jpg","cost":"5800"
+        }]
+    },
+    {"title":"4F手机、数码配件",
+    "s":[
+        {"id":19,"proname":"单反相机，彰显你的风格",
+        "img":"./src/assets/images/xj.jpg","cost":"100000"
+        },
+        {"id":20,"proname":"吸盘式手机支架/车载支架/汽车导航支架",
+        "img":"./src/assets/images/4f2.jpg","cost":"2900"
+        },
+        {"id":21,"proname":"Lightning数据线 手机数据/充电线 1.2米白色用于苹果",
+        "img":"./src/assets/images/4f3.jpg","cost":"2680"
+        },
+        {"id":22,"proname":"8孔位3米插座插排插线板接线板 节能防火插座板",
+        "img":"./src/assets/images/4f4.jpg","cost":"3980"
+        },
+        {"id":23,"proname":"Lightning数据线 手机数据/充电线 1.2米白色用于苹果",
+        "img":"./src/assets/images/4f3.jpg","cost":"2680"
+        },
+        {"id":24,"proname":"吸盘式手机支架/车载支架/汽车导航支架",
+        "img":"./src/assets/images/4f2.jpg","cost":"2900"
+        }]
+    }
+]
